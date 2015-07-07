@@ -1,0 +1,27 @@
+{
+  "name": "dealavec-landing",
+  "version": "1.0.0",
+  "authors": [
+    "DjDCH <coding@djdch.com>"
+  ],
+  "description": "DEAL AVEC landing page",
+  "keywords": [
+    "deal",
+    "avec",
+    "landing"
+  ],
+  "license": "MIT",
+  "homepage": "dealavec.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0",
+    "scrollReveal.js": "~2.3.2",
+    "jquery": "~2.1.4"
+  }
+}
